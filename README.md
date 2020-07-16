@@ -1,7 +1,5 @@
 # nodejs-rest-api
-A node rest api with several endpoints.http://localhost:3001/login
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A node rest api with several endpoints.
 
 ***
 
