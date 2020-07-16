@@ -11,7 +11,7 @@ A node rest api with several endpoints.
 - `npm install` in root
 - Have rest application handy(Postman, Insomnia).
 
-note:  The csv data file was converted to json for ease of use and placed in the /data directory.  What is checked in is a small sample file as full file was too huge to push to github.  The full file can be dropped into this directory for fully testing the api.  I provided a share link to this in a separate email.
+*note:  The csv data file was converted to json for ease of use and placed in the /data directory.  What is checked in is a small sample file as full file was too huge to push to github.  The full file can be dropped into this directory for fully testing the api.  I provided a share link to this in a separate email.*
 
 
 ## **<ins>Available Scripts</ins>**
